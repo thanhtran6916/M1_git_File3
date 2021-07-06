@@ -265,5 +265,6 @@ h1{
   font-size: 30px;
   font-family: Calibri;
   font-weight: 800;
+  display: inline;
 }
 
