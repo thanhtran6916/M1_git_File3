@@ -260,4 +260,10 @@ textarea {
     page-break-after: avoid;
   }
 }
+h1{
+  color: red;
+  font-size: 30px;
+  font-family: Calibri;
+  font-weight: 800;
+}
 
